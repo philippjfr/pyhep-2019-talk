@@ -1,0 +1,14 @@
+name: pyhep-holoviz
+
+channels:
+  - pyviz/label/dev
+  - conda-forge
+
+dependencies:
+  - panel
+  - holoviews
+  - hvplot
+  - datashader
+  - plotly
+  - fastparquet
+  - python-snappy
